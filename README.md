@@ -1,4 +1,4 @@
-# Bleus Weekly Forecast
+# Bleu's Weekly Forecast
 
 ## Description
 Weather outlook app that shows the user a five-day forecast for any given city input through the search bar.
